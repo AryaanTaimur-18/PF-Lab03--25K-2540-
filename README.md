@@ -1,7 +1,27 @@
-I am a motivated and hardworking student with a clear vision of becoming a skilled and insightful data analyst. With a strong passion for programming, I am constantly exploring new technologies and improving my skills in languages like Python, SQL, and R, while also developing a keen interest in data visualization, machine learning, and statistical analysis.
+# 🎯 Jack of All Trades, Mastering One: Data
 
-Outside the world of code and data, I am someone who values balance in life. I’m passionate about staying fit and enjoy playing all kinds of sports, with badminton being my personal favorite. My curiosity and drive extend beyond academics—I actively engage in extracurricular activities and enjoy exploring new challenges.
+Hi there! I'm a motivated student on a journey to become a skilled and insightful **Data Analyst**. I'm passionate about programming, problem-solving, and turning raw data into meaningful insights.
 
-I’ve achieved first position in a debate competition, showcasing my communication and critical thinking skills. I have also represented my institution in prestigious competitions such as the All Pakistan Maths Olympiad (APMO) held at GIKI, the International Kangaroo Mathematics Contest (IKMC), and Mathema hosted by Habib University.
+## 🚀 Currently Learning
 
-In my free time, I enjoy reading books, which helps broaden my perspective and fuel my creativity. I take pride in being a well-rounded individual—a true jack of all trades—always eager to learn, adapt, and grow in every area of life.
+1. Python for data analysis
+2. SQL for database management
+3. C Language
+4. Data visualization (Power BI, Matplotlib)
+5. Machine learning fundamentals
+
+## 📡 Research Work
+
+During an event called **Researchathon**, I conducted a research project on  
+**“Increasing the Efficiency of Renewable Energy Sources.”**  
+This involved exploring innovative ways to optimize solar and wind energy through smart data collection, predictive modeling, and efficiency-focused design.  
+It was a fantastic opportunity to apply analytical thinking to real-world sustainability challenges.
+
+## 🎾 Outside the Code
+
+- 📚 Reading & lifelong learning  
+- 🏸 Playing sports (especially badminton)  
+- 🧠 Public speaking & critical thinking  
+- 🎓 Competing in academic challenges  
+
+> ***A true jack of all trades—always curious, always growing.***
